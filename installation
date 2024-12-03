@@ -1,0 +1,10 @@
+VMware is installed to create and manage virtual machines (VMs) on our computer. It allows us to run multiple operating systems on a single physical machine without interfering with the host operating system.
+Go to VMware official website to download https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion
+download file in system.
+locate file in system VMware-workstation-full-17.0.0-20800274
+Double click on file.
+follow the given instruction.
+click on install button, installation process stsrted.
+click on  finish button.
+installation process completed.
+if required accept agrement and licences.
